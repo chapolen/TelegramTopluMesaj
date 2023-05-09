@@ -1,5 +1,15 @@
 # TelegramTopluMesaj
 Telegram Toplu Mesaj Atma Yazılımı
+Telegram Contact : t.me/harakaq - t.me/harakaq my profil.
+
+Bu yazılım sayesinde telegramdaki kullanıcılara ve gruplara toplu aynı anda mesaj gönderimi yapabilirsiniz.
+Thanks to this software, you can send mass messages to users and groups in Telegram at the same time.
+
+
+![mesaj](https://github.com/chapolen/TelegramTopluMesaj/assets/88929542/eebc3909-69d4-40d0-aa04-2edc00310a8c)
+
+
+
 
 Bu yazılım sayesinde telegramdaki kullanıcılara ve gruplara toplu aynı anda mesaj gönderimi yapabilirsiniz.
 Thanks to this software, you can send mass messages to users and groups in Telegram at the same time.
